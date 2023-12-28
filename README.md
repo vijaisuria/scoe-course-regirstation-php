@@ -46,6 +46,14 @@ To set up this application locally, follow these steps:
 - MySQL
 - HTML/CSS
 - JavaScript 
+- [Bootstrap@5.3.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Google Font 'Poppins'](https://fonts.google.com/specimen/Poppins)
+
+## Acknowledgements
+
+- Special thanks to [MIT School of College of Engineering (MIT-Scoe)](https://mitindia.edu/en/research-centres/mit_scoe) for inspiration and reference.
+- Special thanks to [Google Font 'Poppins'](https://fonts.google.com/specimen/Poppins) and [Bootstrap@5.3.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+  for their contributions to this project.
 
 ## Contributing
 
