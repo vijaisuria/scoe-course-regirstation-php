@@ -1,6 +1,6 @@
 # SCOE Course Registration System
 
-This web application is designed to facilitate course registration for students for Simens Centre of Excellence, MIT campus, Anna University. It is built using PHP and MySQL.
+This web application is designed to facilitate course registration for students for Siemens Centre of Excellence, MIT campus, Anna University. It is built using PHP and MySQL.
 
 ## Features
 
@@ -8,6 +8,7 @@ This web application is designed to facilitate course registration for students 
 - **Course Listing**: View available courses with details such as title, description, and available slots.
 - **Registration**: Students can register for courses, and administrators can manage registrations.
 - **Admin Panel**: Admins have access to an admin dashboard to manage courses, student registrations, and user accounts.
+- **User Profile**: Allows the user to upload their profile photos and authenticate Aadhaar number.
 
 ## Installation
 
@@ -51,7 +52,7 @@ To set up this application locally, follow these steps:
 
 ## Acknowledgements
 
-- Special thanks to [MIT School of College of Engineering (MIT-Scoe)](https://mitindia.edu/en/research-centres/mit_scoe) for inspiration and reference.
+- Special thanks to [MIT, SIEMENS CENTRE OF EXCELLENCE (SCoE)](https://mitindia.edu/en/research-centres/mit_scoe) for inspiration and reference.
 - Special thanks to [Google Font 'Poppins'](https://fonts.google.com/specimen/Poppins) and [Bootstrap@5.3.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
   for their contributions to this project.
 
